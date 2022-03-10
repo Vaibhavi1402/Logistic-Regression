@@ -29,3 +29,4 @@ Attribute information For bank dataset
   17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
 8. Missing Attribute Values: None
+https://vaibhavi1402.github.io/Logistic-Regression/
